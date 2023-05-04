@@ -1,0 +1,17 @@
+
+.Tile {
+    height: 97px;
+    width: 97px;
+  }
+
+  .PopUp {
+    width: 1000px;
+    height: 1000px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+  }
+
+  .Hidden {
+    visibility: hidden;
+  }
